@@ -1,4 +1,4 @@
-<h1 align="center"> # LABORATORIO I </h1> 
+<h1 align="center"> # LABORATORIO I </h1> <br/>
 ## Primer Punto
 ## Segundo Punto 
 ## Tercer Punto 
