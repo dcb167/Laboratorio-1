@@ -12,6 +12,7 @@ Algunos de sus tipos son:</br>
 + HFS+: Organiza archivos y directorios en una estructura de árbol jerárquica</br>  
 + APFS: Es el sistema de archivos nativo de Apple</br> 
 + Ext2, ext3 y ext4</br>
+### 1.3 Definición de las Estructuras de Particiones y sus Tipos
 
 ## 2. Explicación del proceso en Ventoy 
 
