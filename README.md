@@ -10,7 +10,7 @@
 *FAT32</br> 
 *exFAT</br> 
 *NTFS</br>
-*HFS+</br>  
+*HFS</br>  
 *APFS</br> 
 *Ext2, ext3 y ext4 </br>
 
