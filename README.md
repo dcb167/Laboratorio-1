@@ -1,7 +1,8 @@
 # LABORATORIO I 
-<font color="green">  1. Conceptos </font> 
+$${\color{rojo}{1. Conceptos }}</br> 
+$${\color{rojo}{2. Explicación del proceso en Ventoy}}</br> 
+$${\color{rojo}{3. Explicación del proceso en Rufus}}</br> 
 
-<font color="green"> 2. Explicación del proceso en Ventoy </font> 
 
-<font color="green"> 3. Explicación del proceso en Rufus </font>
+
 
