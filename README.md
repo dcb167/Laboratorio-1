@@ -2,7 +2,8 @@
 ## 1. Conceptos
 ### 1.1 Definición de Booteable y GRUB
 + Un Booteable es una especie de aplicación, por la cual, es posible llevar un Sistema Operativo en una USB de arranque[1].
-+ 
++ GRUB se le conoce como el gestor de arranque , el cual, vuelve más sencillo el proceso de inicialización del hardware y la carga de componentes del software[2].
+### 1.2 Definición de los Sistemas de Archivos Compatibles y sus Tipos
 
 
 ## 2. Explicación del proceso en Ventoy 
