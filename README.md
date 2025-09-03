@@ -7,6 +7,9 @@
 
 ![WhatsApp Image 2025-09-01 at 11 29 21 PM](https://github.com/user-attachments/assets/fff9ad5b-c424-438b-9253-9d51ab52cb74)</br>
 <strong>Figura 1.</strong> Ingreso al link de descarga de Rufus.
+![WhatsApp Image 2025-09-01 at 11 29 30 PM](https://github.com/user-attachments/assets/37207c6d-d8dd-4eb9-b517-d963de489991)</br>
+<strong>Figura 2.</strong> Selección del link de descarga de Rufus.
+
 
 
 
