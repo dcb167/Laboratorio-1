@@ -25,7 +25,7 @@
 
 <strong>Figura 5.</strong> Visualización de que la ISO ha sido descargada en la memoria con éxito.
 
-Lo último a realizar, es entrar a la BIOS del ordenador y seleccionar Ubuntu para poder acceder al nuevo S.O.
+Lo último a realizar, es entrar a la BIOS del ordenador y seleccionar que el arranque sea por medio de USB para poder acceder al nuevo S.O Ubuntu.
 
 
 
