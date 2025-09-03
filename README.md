@@ -7,12 +7,12 @@
 + Se le conoce como un sistema de almacenamiento de un dispositivo de memoria, el cual, organiza la escritura, búsqueda, lectura, almacenamiento, edición y eliminación de archivos [5].
 + Algunos de sus tipos son:</br>
 
-*FAT32 
-*exFAT 
-*NTFS 
-*HFS+  
-*APFS  
-*Ext2, ext3 y ext4 
+*FAT32</br> 
+*exFAT</br> 
+*NTFS </br>
+*HFS+</br>  
+*APFS </br> 
+*Ext2, ext3 y ext4 </br>
 
 ## 2. Explicación del proceso en Ventoy 
 
