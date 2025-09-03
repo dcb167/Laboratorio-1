@@ -1,5 +1,5 @@
 # LABORATORIO I 
-## Primer Punto
+## Conceptos
 
 ## Explicación del proceso en Ventoy
 
