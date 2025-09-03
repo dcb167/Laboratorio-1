@@ -6,7 +6,13 @@
 ### 1.2 Definición de los Sistemas de Archivos Compatibles y sus Tipos
 + Se le conoce como un sistema de almacenamiento de un dispositivo de memoria, el cual, organiza la escritura, búsqueda, lectura, almacenamiento, edición y eliminación de archivos [5].
 + Algunos de sus tipos son:</br>
-FAT32 ; exFAT ; NTFS ; HFS+ ; APFS ; Ext2, ext3 y ext4 [4].
+
+- FAT32 
+- exFAT 
+- NTFS 
+- HFS+  
+- APFS  
+- Ext2, ext3 y ext4 
 
 ## 2. Explicación del proceso en Ventoy 
 
