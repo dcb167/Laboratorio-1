@@ -1,5 +1,9 @@
 # LABORATORIO I 
-$${\color{red} 1. Conceptos}$$
+## 1. Conceptos
+
+## 2. Explicación del proceso en Ventoy 
+
+## 2. Explicación del proceso en Rufus
 
 
 
