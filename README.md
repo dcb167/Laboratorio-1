@@ -40,6 +40,9 @@ Algunos de sus tipos son:</br>
 Lo último a realizar, es entrar a la BIOS del ordenador y seleccionar que el arranque sea por medio de USB para poder acceder al nuevo S.O Ubuntu.
 
 ## Referencias
+[1] 	Anónimo, «USB booteable: qué es y los 14 mejores programas para Windows, Linux y macOS,» 23 Agosto 2019. [En línea]. Available: https://www.xataka.com/basics/usb-booteable-que-mejores-programas-para-windows-linux-macos.
+[2] 	M. Aleksic, «¿Qué es el gestor de arranque GRUB en Linux?,» 7 Septiembre 2023. [En línea]. Available: https://phoenixnap.com/kb/what-is-grub. [Último acceso: 1 Septiembre 2025].
+[3] 	Anónimo, «Sistemas de archivos: qué son y cuáles son los más importantes,» 11 Agosto 2020. [En línea]. Available: https://www.ionos.com/es-us/digitalguide/servidores/know-how/sistemas-de-archivos/. [Último acceso: 1 Septiembre 2025].
 
 
 
