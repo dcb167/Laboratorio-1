@@ -39,7 +39,7 @@ Algunos de sus tipos son:</br>
 
 Lo último a realizar, es entrar a la BIOS del ordenador y seleccionar que el arranque sea por medio de USB para poder acceder al nuevo S.O Ubuntu.
 
-## REFERENCIAS
+## Referencias
 
 
 
