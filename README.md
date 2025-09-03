@@ -1,7 +1,7 @@
 # LABORATORIO I 
 ## Primer Punto
 
-## Segundo Punto
+## Explicación del proceso en Ventoy
 
-## Tercer Punto 
+## Explicación del proceso en Rufus
 
