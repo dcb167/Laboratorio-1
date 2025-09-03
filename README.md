@@ -17,15 +17,15 @@
 
 <strong>Figura 3.</strong> Selección de la memoria en donde se desea descargar la ISO de Ubuntu.
 
-![WhatsApp Image 2025-09-01 at 11 29 50 PM](https://github.com/user-attachments/assets/164333c1-c0f0-41c8-adc4-5f11ac820932)
+![WhatsApp Image 2025-09-01 at 11 29 50 PM](https://github.com/user-attachments/assets/164333c1-c0f0-41c8-adc4-5f11ac820932)</br>
 
 <strong>Figura 4.</strong> Selección del link de la ISO de Ubuntu.
 
-![WhatsApp Image 2025-09-01 at 11 30 00 PM](https://github.com/user-attachments/assets/dd7f1971-8d98-46f8-be21-32e7532cb384)
+![WhatsApp Image 2025-09-01 at 11 30 00 PM](https://github.com/user-attachments/assets/dd7f1971-8d98-46f8-be21-32e7532cb384)</br>
 
 <strong>Figura 5.</strong> Visualización de que la ISO ha sido descargada en la memoria con éxito.
 
-
+Lo último a realizar, es entrar a la BIOS del ordenador y seleccionar Ubuntu para poder acceder al nuevo S.O.
 
 
 
