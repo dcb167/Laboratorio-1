@@ -4,14 +4,14 @@
 + Un Booteable es una especie de aplicación, por la cual, es posible llevar un Sistema Operativo en una USB de arranque [1].
 + GRUB se le conoce como el gestor de arranque , el cual, vuelve más sencillo el proceso de inicialización del hardware y la carga de componentes del software [2].
 ### 1.2 Definición de los Sistemas de Archivos Compatibles y sus Tipos
-+ Se le conoce como un sistema de almacenamiento de un dispositivo de memoria, el cual, organiza la escritura, búsqueda, lectura, almacenamiento, edición y eliminación de archivos [5].</br>
++ Se le conoce como un sistema de almacenamiento de un dispositivo de memoria, el cual, organiza la escritura, búsqueda, lectura, almacenamiento, edición y eliminación de archivos [3].</br>
 Algunos de sus tipos son:</br>
 + FAT32: Formato Antiguo de Microsoft. </br> 
 + exFAT: Diseñado para dispositivos de memoria flash.</br> 
-+ NTFS:</br>
-+ HFS+:</br>  
-+ APFS:</br> 
-+ Ext2, ext3 y ext4: </br>
++ NTFS: Se utiliza en las versiones modernas de Windows</br>
++ HFS+: Organiza archivos y directorios en una estructura de árbol jerárquica</br>  
++ APFS: Es el sistema de archivos nativo de Apple</br> 
++ Ext2, ext3 y ext4</br>
 
 ## 2. Explicación del proceso en Ventoy 
 
