@@ -1,7 +1,7 @@
 # LABORATORIO I 
-<span style="color: blue"> 1. Conceptos </span> 
+<font color="green">  1. Conceptos </font> 
 
-<span style="color: blue"> 2. Explicación del proceso en Ventoy </span> 
+<font color="green"> 2. Explicación del proceso en Ventoy </font> 
 
-<span style="color: blue"> 3. Explicación del proceso en Rufus </span> 
+<font color="green"> 3. Explicación del proceso en Rufus </font>
 
