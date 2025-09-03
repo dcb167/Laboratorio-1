@@ -9,9 +9,9 @@
 
 *FAT32</br> 
 *exFAT</br> 
-*NTFS </br>
+*NTFS</br>
 *HFS+</br>  
-*APFS </br> 
+*APFS</br> 
 *Ext2, ext3 y ext4 </br>
 
 ## 2. Explicación del proceso en Ventoy 
