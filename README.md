@@ -5,8 +5,7 @@
 + GRUB se le conoce como el gestor de arranque , el cual, vuelve más sencillo el proceso de inicialización del hardware y la carga de componentes del software [2].
 ### 1.2 Definición de los Sistemas de Archivos Compatibles y sus Tipos
 + Se le conoce como un sistema de almacenamiento de un dispositivo de memoria, el cual, organiza la escritura, búsqueda, lectura, almacenamiento, edición y eliminación de archivos [5].
-+ Algunos de sus tipos son:</br>
-
+Algunos de sus tipos son:</br>
 + FAT32:</br> 
 + exFAT:</br> 
 + NTFS:</br>
