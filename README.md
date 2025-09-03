@@ -1,6 +1,6 @@
 # LABORATORIO I 
 ## 1. Conceptos
-<code style="blue : blue">conceptos</code>
+<code style="color: blue">conceptos</code>
 ### 1.1 Definición de Booteable y GRUB
 + Un Booteable es una especie de aplicación, por la cual, es posible llevar un Sistema Operativo en una USB de arranque [1].
 + GRUB se le conoce como el gestor de arranque , el cual, vuelve más sencillo el proceso de inicialización del hardware y la carga de componentes del software [2].
