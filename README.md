@@ -1,5 +1,5 @@
 # LABORATORIO I 
-$${\color{red} 1.Conceptos}$$
+$${\color{red} 1. Conceptos}$$
 
 
 
