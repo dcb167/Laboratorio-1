@@ -1,5 +1,7 @@
 # LABORATORIO I 
 ## 1. Conceptos
+### 1.1 Definición de Booteable y GRUB
+
 
 ## 2. Explicación del proceso en Ventoy 
 
