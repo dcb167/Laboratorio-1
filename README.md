@@ -1,5 +1,5 @@
 # LABORATORIO I</br>
-+ Elaborado por: Laura Rodriguez y Diana Bernal
+# Elaborado por: Laura Rodriguez y Diana Bernal
 
 ## 1. Conceptos
 ### 1.1 Definición de Booteable y GRUB
