@@ -1,5 +1,5 @@
 # LABORATORIO I
-<span style="color: #RRGGBB;"> Laura Rodriguez </span>
+<span style="color: # RRGGBB;"> Laura Rodriguez </span>
 ## 1. Conceptos
 ### 1.1 Definición de Booteable y GRUB
 + Un Booteable es una especie de aplicación, por la cual, es posible llevar un Sistema Operativo en una USB de arranque [1].
