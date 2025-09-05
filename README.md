@@ -15,13 +15,13 @@ Algunos de sus tipos son:</br>
 + APFS: Es el sistema de archivos nativo de Apple</br> 
 + Ext2, ext3 y ext4</br>
 ### 1.3 Definición de las Estructuras de Particiones y sus Tipos
-+ Las estructuras de particiones son aquellas en las que un disco duro fisico se divide en segmentos logicos, existen dos particones
++ Las estructuras de particiones son aquellas en las que un disco duro fisico se divide en segmentos logicos, existen dos particones.[4]
 + MBR (Master Bood Record) Se usa para equipos o estructuras mas antiguas que se usa con el firmware BIOS
 + GPT (GUID Partition Table) Se usan para estructuras mas avanzadas.
-+ Existen trfes tipos de particiones:
-+Particion primaria,
-+Extendida
-+lógica.
++ Existen tres tipos de particiones. [5]
++ Partición primaria: son las divisiones básicas de un disco y se usan para instalar el sistema operativo. Tiene un límite de 4 particiones en el MBR.
++ Extendida: esta da solución al límite de particiones de la primaria y actua como un contenedor.
++ Lógica: son subdivisiones creadas dentro de las particiones extendidas. contienen diferentes tipos de sistemas de archivos y se pueden almacenar archivos personales. 
 
 ## 2. Explicación del proceso en Ventoy 
 <img width="1767" height="539" alt="image" src="https://github.com/user-attachments/assets/57c1c15c-0299-4761-8e99-611560049135" /> 
@@ -46,9 +46,6 @@ Algunos de sus tipos son:</br>
 <img width="781" height="311" alt="image" src="https://github.com/user-attachments/assets/99a58c7d-ec7a-43e9-8f02-da2c21eacf9c" />
 
 <strong>Figura 4.</strong> Para colocar los sistemas operativos (S.O), solo se copian y se pegan en la memoria.
-
-<strong>Figura 4.</strong> Ventoy ya se instalo correctamente en la memoria.
-
 
 ## 3. Explicación del proceso en Rufus
 
@@ -81,9 +78,9 @@ Lo último a realizar, es entrar a la BIOS del ordenador y seleccionar que el ar
 
 [3] 	Anónimo, «Sistemas de archivos: qué son y cuáles son los más importantes,» 11 Agosto 2020. [En línea]. Available: https://www.ionos.com/es-us/digitalguide/servidores/know-how/sistemas-de-archivos/. [Último acceso: 1 Septiembre 2025].</br>
 
+[4]. GeeksforGeeks. (2025, 23 julio). Partitioning Scheme: MBR and GPT in OS. GeeksforGeeks. https://www.geeksforgeeks.org/operating-systems/partitioning-scheme-mbr-and-gpt-in-os/ 
 
-
-
+[5]. Sevivon Studio. (2020, 21 marzo). Particiones primarias, lógicas y extendidas [Vídeo]. YouTube. https://www.youtube.com/watch?v=CSbUiK2pytE
 
 
 
