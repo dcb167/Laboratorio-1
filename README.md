@@ -1,5 +1,5 @@
 # LABORATORIO I</br>
-<p style="color:rgb(240,248,255);">Este texto debería ser azul.</p>
++ Elaborado por: Laura Rodriguez y Diana Bernal
 
 ## 1. Conceptos
 ### 1.1 Definición de Booteable y GRUB
