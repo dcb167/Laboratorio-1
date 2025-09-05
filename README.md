@@ -1,5 +1,5 @@
 # LABORATORIO I
-<p style="color: blue;">Laura Rodriguez </p>
+<font color="blue">Laura Rodriguez</font>
 
 ## 1. Conceptos
 ### 1.1 Definición de Booteable y GRUB
