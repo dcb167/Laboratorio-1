@@ -45,29 +45,29 @@ Algunos de sus tipos son:</br>
   
 <img width="781" height="311" alt="image" src="https://github.com/user-attachments/assets/99a58c7d-ec7a-43e9-8f02-da2c21eacf9c" />
 
-<strong>Figura 4.</strong> Para colocar los sistemas operativos (S.O), solo se copian y se pegan en la memoria.
+<strong>Figura 5.</strong> Para colocar los sistemas operativos (S.O), solo se copian y se pegan en la memoria.
 
 ## 3. Explicación del proceso en Rufus
 
 ![WhatsApp Image 2025-09-01 at 11 29 21 PM](https://github.com/user-attachments/assets/fff9ad5b-c424-438b-9253-9d51ab52cb74)</br>
 
-<strong>Figura 1.</strong> Ingreso al link de descarga de Rufus.
+<strong>Figura 6.</strong> Ingreso al link de descarga de Rufus.
 
 ![WhatsApp Image 2025-09-01 at 11 29 30 PM](https://github.com/user-attachments/assets/37207c6d-d8dd-4eb9-b517-d963de489991)</br>
 
-<strong>Figura 2.</strong> Selección del link de descarga de Rufus.
+<strong>Figura 7.</strong> Selección del link de descarga de Rufus.
 
 ![WhatsApp Image 2025-09-01 at 11 29 40 PM](https://github.com/user-attachments/assets/e6893c38-d4b4-40c9-90d3-ebcff6264da8)</br>
 
-<strong>Figura 3.</strong> Selección de la memoria en donde se desea descargar la ISO de Ubuntu.
+<strong>Figura 8.</strong> Selección de la memoria en donde se desea descargar la ISO de Ubuntu.
 
 ![WhatsApp Image 2025-09-01 at 11 29 50 PM](https://github.com/user-attachments/assets/164333c1-c0f0-41c8-adc4-5f11ac820932)</br>
 
-<strong>Figura 4.</strong> Selección del link de la ISO de Ubuntu.
+<strong>Figura 9.</strong> Selección del link de la ISO de Ubuntu.
 
 ![WhatsApp Image 2025-09-01 at 11 30 00 PM](https://github.com/user-attachments/assets/dd7f1971-8d98-46f8-be21-32e7532cb384)</br>
 
-<strong>Figura 5.</strong> Visualización de que la ISO ha sido descargada en la memoria con éxito.
+<strong>Figura 10.</strong> Visualización de que la ISO ha sido descargada en la memoria con éxito.
 
 Lo último a realizar, es entrar a la BIOS del ordenador y seleccionar que el arranque sea por medio de USB para poder acceder al nuevo S.O Ubuntu.
 
