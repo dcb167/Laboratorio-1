@@ -86,5 +86,3 @@ Lo último a realizar, es entrar a la BIOS del ordenador y seleccionar que el ar
 
 
 
-
-
