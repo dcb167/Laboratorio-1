@@ -15,8 +15,40 @@ Algunos de sus tipos son:</br>
 + APFS: Es el sistema de archivos nativo de Apple</br> 
 + Ext2, ext3 y ext4</br>
 ### 1.3 Definición de las Estructuras de Particiones y sus Tipos
++ Las estructuras de particiones son aquellas en las que un disco duro fisico se divide en segmentos logicos, existen dos particones
++ MBR (Master Bood Record) Se usa para equipos o estructuras mas antiguas que se usa con el firmware BIOS
++ GPT (GUID Partition Table) Se usan para estructuras mas avanzadas.
++ Existen trfes tipos de particiones:
++Particion primaria,
++Extendida
++lógica.
 
 ## 2. Explicación del proceso en Ventoy 
+<img width="1767" height="539" alt="image" src="https://github.com/user-attachments/assets/57c1c15c-0299-4761-8e99-611560049135" /> 
+
+<strong>Figura 1.</strong> Ingreso aL a la web y selecciono el link para para windows.
+
++ Se descarga Ventoy y se descomprime, luego se ejecuta como administrador.
+
+<img width="795" height="455" alt="image" src="https://github.com/user-attachments/assets/e4f0a189-79d3-4f9d-bb8e-d25704afd913" />
+
+<strong>Figura 2.</strong> Se eleige la memoria a la que se le va a descargar el Ventoy.
++ Seleccionamos el arranque seguro y GPT (Para equipos mas avanzados) y luego, le damos click en instalar.
+
+<img width="417" height="116" alt="image" src="https://github.com/user-attachments/assets/91fdd7dc-b0aa-4d8e-98a5-ac6e4156274f" /> 
+
+<strong>Figura 3.</strong> Se inician a borrar las particiones y alista la memoria para empezar a usarla con Ventoy.
+
+<img width="362" height="139" alt="image" src="https://github.com/user-attachments/assets/24874820-6d45-403b-913a-80e5b50a95cc" />
+
+<strong>Figura 4.</strong> Ventoy ya se instalo correctamente en la memoria.
+  
+<img width="781" height="311" alt="image" src="https://github.com/user-attachments/assets/99a58c7d-ec7a-43e9-8f02-da2c21eacf9c" />
+
+<strong>Figura 4.</strong> Para colocar los sistemas operativos (S.O), solo se copian y se pegan en la memoria.
+
+<strong>Figura 4.</strong> Ventoy ya se instalo correctamente en la memoria.
+
 
 ## 3. Explicación del proceso en Rufus
 
